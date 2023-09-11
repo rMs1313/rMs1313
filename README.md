@@ -1,7 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Rayen!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Packet Sniffer](URL)
+- [Keylogger](URL)
+
+<h2>Certifications</h2>
+
+- [Google Cybersecurity Professional](URL)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/_.ra.y.en._/
+[linkedin]: https://linkedin.com/in/rayen-m-sulphi-944b62275
 
 <!--
-**rMs1313/rMs1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
