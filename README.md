@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- [Supply Chain Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Supply Chain Analysis](https://github.com/rMs1313/SupplychainAnalysis)
 - [Packet Sniffer](URL)
 - [Keylogger](URL)
 - [Recon Automation](
