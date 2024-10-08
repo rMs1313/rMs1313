@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
+-[Portfolio Optimization](https://github.com/rMs1313/portfolio-optimization)
 - [Supply Chain Analysis](https://github.com/rMs1313/SupplychainAnalysis)
 
 
