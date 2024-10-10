@@ -6,6 +6,8 @@
   
 - [Supply Chain Analysis](https://github.com/rMs1313/SupplychainAnalysis)
 
+- [News Collector Pipeline](https://github.com/rMs1313/news_collector_pipeline)
+
 
 <h2>Certifications</h2>
 
