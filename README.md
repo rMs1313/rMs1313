@@ -15,9 +15,10 @@
 
   <h2> 🔭 I’m currently working on: </h2>
 
-- ETL Pipelines
-- Webscraping
-- Database Management
+- GEN AI
+- Deep learning
+- LLM
+- RAG implementations
 
 <h2> 🤳 Connect with me:</h2>
 
