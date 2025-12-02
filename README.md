@@ -12,6 +12,7 @@
 <h2>Certifications</h2>
 
 - [Google Cybersecurity Professional](URL)
+- [Google Advanced Data Analytics Professional]
 
   <h2> 🔭 I’m currently working on: </h2>
 
